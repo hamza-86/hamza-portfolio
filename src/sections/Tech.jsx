@@ -1,5 +1,5 @@
 import Skills from "../components/Skills"
-import {technologies} from "../contsnts/index"
+import {technologies} from "../constants/index"
 
 const Tech = () => {
   return (

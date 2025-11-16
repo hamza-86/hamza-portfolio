@@ -2,7 +2,7 @@ import React from "react";
 import { fadeIn, textVariant } from "../utils/motion";
 import { motion } from "framer-motion";
 import ServiceCard from "../components/ServiceCard";
-import {services} from "../contsnts/index"
+import {services} from "../constants/index"
 
 
 const About = () => {

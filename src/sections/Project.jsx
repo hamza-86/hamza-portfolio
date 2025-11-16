@@ -2,7 +2,7 @@ import React from "react"
 import { motion } from "framer-motion";
 import { textVariant } from "../utils/motion";
 import { fadeIn } from "../utils/motion";
-import { projects } from "../contsnts";
+import { projects } from "../constants";
 import ProjectCard from "../components/ProjectCard"
 
 const Project = () => {

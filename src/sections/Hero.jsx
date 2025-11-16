@@ -20,7 +20,8 @@ const Hero = () => {
           Full-Stack Developer <br className="hidden sm:block" />
           </p>
           <div className=" w-full flex justify-center items-center lg:pl-48 mt-8 lg:mt-[-30px]">
-          <img src={homeImg} className=" lg:w-[500px] w-[350px] "></img>
+          <img src={homeImg} alt="Home illustration" className="lg:w-[500px] w-[350px]" />
+
           </div>
         </div>
 
