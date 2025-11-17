@@ -94,30 +94,7 @@ export const services = [
 
 
 export const projects = [
-  {
-    name: "E-Learning Platform",
-    description: " Built a web app where instructors create courses and students enroll, featuring secure authentication and payments. Implemented JWT-based login, OTP verification, and role-based access control. Integrated Razorpay for payments and Cloudinary for media uploads.",
-    tags: [
-      {
-        name: "react.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "node.js",
-        color: "green-text-gradient",
-      },
-      {
-        name: "razorpay",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "jwt",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: edTech,
-    sourceCodeLink: "#",
-  },
+  
   {
     name: "CampusConnect",
     description:" Developed a platform enabling seniors to share placement insights and knowledge, while juniors can seek guidance on study-related queries. Implemented features like blog posting, commenting, and interaction between users to foster collaboration and engagement.",
@@ -139,26 +116,7 @@ export const projects = [
     ,
     sourceCodeLink: "#",
   },
-  {
-    name: "TextMate",
-    description: "Developed a full-stack web application that allows users to manage personal books and notes, with secure user authentication and a responsive user interface. Implemented an intuitive design and optimized performance for a seamless user experience.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "node",
-        color: "green-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: textMate,
-    sourceCodeLink: "#",
-  },
+ 
   {
     name: "My Portfolio",
     description:
