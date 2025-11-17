@@ -106,7 +106,7 @@ const Contact = () => {
         <a href="https://www.linkedin.com/in/mohd-hamza-639bb5320/"><img src={linkedIn} alt="" className=" w-10 lg:w-12"/></a>
         <a href="https://github.com/hamza-86"><img src={github} alt="" className=" w-10 lg:w-12"/></a>
         
-        <a href="https://drive.google.com/file/d/1eudRinaezG6iQgiz1X2DH3T2ZPYNJwZh/view?usp=drive_link"><img src={cv} alt="" className=" w-10 lg:w-12"/></a>
+        <a href="https://drive.google.com/file/d/1WGOaNi6W5kEdgsgUESigmMjX2-2rnwgQ/view?usp=drive_link"><img src={cv} alt="" className=" w-10 lg:w-12"/></a>
 
 
 
