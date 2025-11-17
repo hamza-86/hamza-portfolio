@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { textVariant } from "../utils/motion";
 import linkedIn from "../assets/likedin.png"
 import emailImg from "../assets/email.png"
-import leetcode from "../assets/leetcode.png"
+// import leetcode from "../assets/leetcode.png"
 import github from "../assets/project/github.png"
 import cv from "../assets/cv.png"
 
